@@ -1,6 +1,6 @@
 👋 Merhaba! Benim adım Ali Karaoğlan
 
-Siber güvenlik benim için sadece bir meslek değil, çocukluğumdan beri hayalini kurduğum bir tutku. Bu alanda herhangi bir üniversite eğitimi almadım; ancak azmim, merakım ve disiplinimle kendimi tamamen kendi başıma geliştirdim. Öğrenmeyi seviyorum, araştırmaktan asla yorulmuyorum ve çözüm üretme konusunda yaratıcıyım.
+  Siber güvenlik benim için sadece bir meslek değil, çocukluğumdan beri hayalini kurduğum bir tutku. Bu alanda herhangi bir üniversite eğitimi almadım; ancak azmim, merakım ve disiplinimle kendimi tamamen kendi başıma geliştirdim. Öğrenmeyi seviyorum, araştırmaktan asla yorulmuyorum ve çözüm üretme konusunda yaratıcıyım.
 
 Yıllar boyunca teknik makaleler okudum, saatlerce podcast dinledim, kitaplar karıştırdım ve her yeni bilgiyi hemen pratiğe dökmeye çalıştım. Bu repo, şimdiye kadar öğrendiklerimi, geliştirdiğim projeleri ve siber güvenlik alanındaki yolculuğumu paylaşmak için oluşturuldu. Aynı zamanda, bu alanda kendini geliştirmek isteyen herkes için faydalı bir kaynak olmasını hedefliyorum.
 
